@@ -30,7 +30,7 @@ When I open the code in the browser the resulting analysis should look similar t
 
 The final code should print the analysis to the console.
 
-The URL of the deployed application: (need to push before adding page link)
+The URL of the deployed application: https://mewmew88.github.io/Console-Finances/
 
 ## License
 
